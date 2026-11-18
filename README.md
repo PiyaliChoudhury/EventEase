@@ -216,14 +216,11 @@ EventEase/
 
 ## 👩‍💻 Contributors
 
-**Project Developer**
+**Project Developers**
 
 - **Piyali Choudhury** — [@PiyaliChoudhury](https://github.com/PiyaliChoudhury)
 - **Sree Chetana** - [@SreeChetana](https://github.com/SreeChetana)
 
-**Collaborator**
-
-- Add your collaborator's name and GitHub profile here: `@GitHubUsername`
 
 Contributions, suggestions, and improvements are welcome!
 
